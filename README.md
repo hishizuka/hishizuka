@@ -1,16 +1,17 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=hishizuka)
 
-<!--
-**hishizuka/hishizuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Metrics](https://metrics.lecoq.io/hishizuka?template=classic&config.timezone=Asia%2FTokyo)
 
-Here are some ideas to get you started:
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/hishi/posts.svg)](http://qiita.com/hishi)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hishi/contributions.svg)](http://qiita.com/hishi)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/hishi/followers.svg)](http://qiita.com/hishi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=hishi)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hishizuka&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishizuka" />
+</a>
