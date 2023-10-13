@@ -6,7 +6,7 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hishi/contributions.svg)](http://qiita.com/hishi)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/hishi/followers.svg)](http://qiita.com/hishi)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hishi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hishizuka)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
